@@ -1,4 +1,4 @@
-import turtle
+ import turtle
 import time
 
 boom=10
